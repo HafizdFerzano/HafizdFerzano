@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731233308188",
+    "project_id": "latihan-22312072",
+    "storage_bucket": "latihan-22312072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731233308188:android:64012f17dc4acdedff59d9",
+        "android_client_info": {
+          "package_name": "app.hafizd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_eBztQb5ECR0n6VO_Y0qwXG8IbCHHvU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731233308188:android:73f53bfff6520e95ff59d9",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_eBztQb5ECR0n6VO_Y0qwXG8IbCHHvU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
